@@ -172,19 +172,7 @@ document.getElementById('btn-donate2')
         // Modal On/Off
         my_modal_5.showModal()
     })
-// const makeBlueButton=document.getElementById('blog');
-// makeBlueButton.onclick=makeBlue;
 
-//  function makeBlue(){
-// window.location.href='./blog.html'
-// window.location.replace(".index.html");
-//  }
-//  const BlueButton=document.getElementById('home');
-// BlueButton.onclick=makesBlue;
-
-//  function makesBlue(){
-// window.location.replace='./blog.html'
-//  }
 
 
 
