@@ -88,9 +88,7 @@ document.getElementById('btn-donate')
         `
         history.appendChild(div)
 
-        // Modal On/Off
-        my_modal_5.showModal()
-        document.getElementById("my_model_5").showModal()
+        
     })
 // Feni Button----
 document.getElementById('btn-donate1')
@@ -129,8 +127,7 @@ document.getElementById('btn-donate1')
         `
         history.appendChild(div)
 
-        // Modal On/Off
-        my_modal_5.showModal()
+       
     })
 // Quota Button----
 document.getElementById('btn-donate2')
@@ -169,8 +166,7 @@ document.getElementById('btn-donate2')
         `
         history.appendChild(div)
         
-        // Modal On/Off
-        my_modal_5.showModal()
+       
     })
 
 
